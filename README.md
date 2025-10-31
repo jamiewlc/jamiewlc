@@ -6,3 +6,5 @@
 
 💻 **Languages & tools:** R · Stata · Excel · GIS · SQL · Python  
 📫 **Contact:** jamie.wong@ucl.ac.uk
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
