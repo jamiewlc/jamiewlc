@@ -4,7 +4,7 @@
 
 🔬 My research focuses on using the target trial emulation framework to estimate causal treatment effects for cardiometabolic diseases and related chronic conditions, using data from longitudinal cohort studies and electronic health records, while also extending insights derived from these findings through conducting health economic evaluations.
 
-💻 **Languages & tools:** R · Stata · Excel · GIS · SQL · Python  
+💻 **Languages & Tools:** R · Stata · Excel · GIS · SQL · Python  
 📫 **Contact:** jamie.wong@ucl.ac.uk
 
 [![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiewlc)](https://github.com/anuraghazra/github-readme-stats)
