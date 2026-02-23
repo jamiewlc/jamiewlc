@@ -6,9 +6,3 @@
 
 💻 **Languages & Tools:** R · Stata · Excel · GIS · SQL · Python  
 📫 **Contact:** jamie.wong@ucl.ac.uk
-
-[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiewlc)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiewlc)](https://github.com/anuraghazra/github-readme-stats)
--->
