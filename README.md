@@ -11,4 +11,4 @@
 👨‍🏫 I also teach quantitative research methods, epidemiology, and health data science across undergraduate and postgraduate modules at UCL.
 
 💻 **Languages & Tools:** R · Stata · Excel · GIS · SQL · Python  
-📫 **Contact:** jamie.wong@ucl.ac.uk
+📫 **Contact:** jamie.wong@ucl.ac.uk · laichunjamie.wong@nhs.net
